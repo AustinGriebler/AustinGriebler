@@ -15,7 +15,7 @@
 ![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logoColor=white&logo=webpack)
 
 ## 🌱 I’m currently learning
-![graphQL](https://img.shields.io/badge/Deck.gl-19202c?style=for-the-badge&logoColor=white)
+![graphQL](https://img.shields.io/badge/graphQL-19202c?style=for-the-badge&logoColor=white)
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logoColor=white&logo=angular)
 
 ## 📫 How to reach me: 
