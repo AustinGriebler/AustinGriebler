@@ -16,7 +16,7 @@
 
 ## 🌱 I’m currently learning
 ![graphQL](https://img.shields.io/badge/graphQL-19202c?style=for-the-badge&logoColor=white)
-![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logoColor=white&logo=angular)
+![nextJS](https://img.shields.io/badge/Next-DD0031?style=for-the-badge&logoColor=white&logo=next)
 
 ## 📫 How to reach me: 
 📧 <austingriebler@gmail.com>  
