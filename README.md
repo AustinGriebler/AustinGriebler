@@ -1,4 +1,4 @@
-### Hi there, I'm Austin 👋
+# Hi there, I'm Austin 👋
 
 ## 🔭 Technologies I use
 
