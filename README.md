@@ -20,6 +20,9 @@
 ![trpc](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logoColor=white&logo=trpc)
 ![svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logoColor=white&logo=svelte)
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logoColor=white&logo=flutter)
+![prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logoColor=white&logo=prisma)
+![planetscale](https://img.shields.io/badge/Planetscale-000000?style=for-the-badge&logoColor=white&logo=planetscale)
+
 
 ## 📫 How to reach me: 
 📧 <austingriebler@gmail.com>  
