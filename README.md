@@ -17,7 +17,9 @@
 ## 🌱 I’m currently learning
 ![graphQL](https://img.shields.io/badge/graphQL-19202c?style=for-the-badge&logoColor=white&logo=graphql)
 ![nextjs](https://img.shields.io/badge/Nextjs-DD0031?style=for-the-badge&logoColor=white&logo=next.js)
-![trpc](https://img.shields.io/badge/tRPC-DD0031?style=for-the-badge&logoColor=white&logo=trpc)
+![trpc](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logoColor=white&logo=trpc)
+![svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logoColor=white&logo=svelte)
+![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logoColor=white&logo=flutter)
 
 ## 📫 How to reach me: 
 📧 <austingriebler@gmail.com>  
