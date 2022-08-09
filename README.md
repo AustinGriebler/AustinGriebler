@@ -22,6 +22,7 @@
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logoColor=white&logo=flutter)
 ![prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logoColor=white&logo=prisma)
 ![planetscale](https://img.shields.io/badge/Planetscale-000000?style=for-the-badge&logoColor=white&logo=planetscale)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logoColor=white&logo=vercel)
 
 
 ## 📫 How to reach me: 
